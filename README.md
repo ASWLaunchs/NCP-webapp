@@ -9,7 +9,9 @@
 4,  axios<br/>
 5,  echarts-for-react<br/>
 
-因为加载了echarts图标的关系，我的本地node_modules包太大，就没有上传上来，这些依赖还得您自己下载了安装后才能运行项目，运行项目指令npm start
+因为加载了echarts图标的关系，我的本地node_modules包太大，就没有上传上来，这些依赖还得您自己下载了安装后才能运行项目
+安装命令npm install
+运行项目指令npm start
 
 项目提交时间为<br/>
 2020.02.21 2:07
